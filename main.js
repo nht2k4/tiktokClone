@@ -43,13 +43,27 @@ let track_list = [
 	},
 ];
 let track = [
-    "videos/random_video2.mp4",
-    "videos/random_video3.mp4",
-    "videos/random_video4.mp4",
-    "videos/random_video5.mp4",
-    "videos/random_video6.mp4",
-    "videos/random_video7.mp4",
-    "videos/random_video8.mp4"
+    
+	"https://www.tiktok.com/@capcutvn.98/video/7347723192519232775?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
+	
+       "https://www.tiktok.com/@tnhw.cutii._/video/7347221346511768834?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
+	
+         "https://www.tiktok.com/@.trinam99/video/7346814013973515522?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
+	
+         "https://www.tiktok.com/@quangdai164/video/7346918513191177480?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
+	
+        "https://www.tiktok.com/@hanhnguyen3011/video/7345775704824352007?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
+	
+         "https://www.tiktok.com/@q_huyp_/video/7345429939396594964?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
+	
+         "https://www.tiktok.com/@lailaquanday02/video/7331012440274029867?is_from_webapp=1&sender_device=pc&web_id=7229201742323140098"
+	,
 ]
 let radome_track = track[Math.floor(Math.random()*track.length)]; //sorting items one-by-one and picking them randomly
 window.onload = (e)=>{
@@ -140,7 +154,7 @@ function fwrd() {
     idArray [1] = "Tân Nguyễn"
     idArray [2] = "Huệ Ngọc"
     idArray [3] = "Tú Quyên"
-    idArray [4] = "Thầy Kiên thể dục"
+    idArray [4] = "Ngọc Bình"
     idArray [5] = "Bé Bo"
     randomParagraph = Math.floor(Math.random()*5);
   
